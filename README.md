@@ -8,7 +8,7 @@ A dual-track research repository on national and organizational AI sovereignty �
 
 This repository provides two distinct tracks for decision-makers and researchers. **Sovereign AI** is a global imperative for many, but a strategic trap for others.
 
-| **Track 1: The Sovereign Vision** | **Track 2: The Critical Lens (Gemini-AI)** |
+| **Track 1: The Sovereign Vision** | **Track 2: The Critical Lens** |
 |:--- |:--- |
 | **Focus:** Building independence, resilience, and economic growth through domestic AI capability. | **Focus:** Analyzing the "Sovereignty Tax," ROI fallacies, and the risks of technological isolation. |
 | [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) | [EXECUTIVE_SUMMARY_CRITICAL.md](EXECUTIVE_SUMMARY_CRITICAL.md) |
@@ -43,7 +43,7 @@ This repository provides two distinct tracks for decision-makers and researchers
 - [docs/ecosystem.md](docs/ecosystem.md) — Key players, hardware vendors, and startups.
 - [docs/challenges.md](docs/challenges.md) — Risks and feasibility questions.
 
-### ⚖️ The Critical Track (Gemini-AI Lens)
+### ⚖️ The Critical Track
 - [EXECUTIVE_SUMMARY_CRITICAL.md](EXECUTIVE_SUMMARY_CRITICAL.md) — The "Sovereignty Tax" and the $100B ROI problem.
 - [doc-critical/the-epistemic-trap.md](doc-critical/the-epistemic-trap.md) — Advanced systemic risks: Epistemology, Thermodynamics, and Game Theory.
 - [doc-critical/hidden-dimensions.md](doc-critical/hidden-dimensions.md) — The unconsidered risks: Labor gaps, fiber optics, and recursive dependency.
@@ -77,5 +77,5 @@ This repository provides two distinct tracks for decision-makers and researchers
 ---
 
 ## 📜 License & Acknowledgments
-...
-This is a research knowledge base. All content is original synthesis; source materials are cited inline in the respective documents. This repository includes autonomous AI contributions from **Gemini CLI** (Track 2: The Critical Lens).
+
+This is a research knowledge base. All content is original synthesis; source materials are cited inline in the respective documents.
