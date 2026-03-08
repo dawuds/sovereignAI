@@ -1,82 +1,81 @@
-# Sovereign AI
+# Sovereign AI: The Strategic Knowledge Base
 
-Research knowledge base on national and organizational AI sovereignty — the capability to develop, deploy, and govern AI systems using domestic infrastructure, data, talent, and governance frameworks.
+A dual-track research repository on national and organizational AI sovereignty — the capability to develop, deploy, and govern AI systems using domestic infrastructure, data, and talent.
 
 ---
 
-## What is Sovereign AI?
+## 🏛️ One Concept, Two Perspectives
+
+This repository provides two distinct tracks for decision-makers and researchers. **Sovereign AI** is a global imperative for many, but a strategic trap for others.
+
+| **Track 1: The Sovereign Vision** | **Track 2: The Critical Lens (Gemini-AI)** |
+|:--- |:--- |
+| **Focus:** Building independence, resilience, and economic growth through domestic AI capability. | **Focus:** Analyzing the "Sovereignty Tax," ROI fallacies, and the risks of technological isolation. |
+| [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) | [EXECUTIVE_SUMMARY_CRITICAL.md](EXECUTIVE_SUMMARY_CRITICAL.md) |
+| [docs/architecture.md](docs/architecture.md) | [doc-critical/technological-dependency.md](doc-critical/technological-dependency.md) |
+| [docs/drivers.md](docs/drivers.md) | [doc-critical/economic-fallacy.md](doc-critical/economic-fallacy.md) |
+| [docs/controls-governance.md](docs/controls-governance.md) | [doc-critical/security-risks.md](doc-critical/security-risks.md) |
+| [docs/case-studies.md](docs/case-studies.md) | [doc-critical/innovation-stagnation.md](doc-critical/innovation-stagnation.md) |
+
+---
+
+## 🔍 What is Sovereign AI?
 
 **Sovereign AI** is a nation's or organization's ability to produce artificial intelligence using its own infrastructure, data, workforce, and business networks — with full control over the AI lifecycle from training data to model outputs.
 
-It sits within a hierarchy of digital independence concepts:
+### 🌐 The Hierarchy of Independence
 
 | Term | Scope | Focus |
 |------|-------|-------|
 | **Data Sovereignty** | Narrowest | Where data is stored, processed, and who can access it |
 | **Digital Sovereignty** | Broad | Control over all digital assets — hardware, software, networks |
 | **AI Sovereignty** | Specialized | Control over AI ecosystem — data, models, operations, governance |
-| **Sovereign AI** | Enablement layer | The infrastructure, models, and capabilities that make AI sovereignty possible |
-
-Sovereign AI provides the **technical foundation** for AI sovereignty, which is itself a specialized application of digital sovereignty.
+| **Sovereign AI** | Enablement layer | The infrastructure and capabilities that make AI sovereignty possible |
 
 ---
 
-## Why This Matters
+## 🏗️ Document Structure
 
-- AI projected to add **$13–23 trillion** to the global economy by 2030–2040
-- 71% of executives and government officials characterize sovereign AI as an **"existential concern" or "strategic imperative"**
-- Sovereign AI market estimated at **$500–600 billion by 2030**
-- 30–40% of all AI spending will be influenced by sovereignty requirements
-- EU reports **~90% dependency** on US cloud infrastructure for AI workloads
+### 📈 The Sovereign Vision Track (Pro-Sovereignty)
+- [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) — Strategic overview for decision-makers.
+- [docs/landscape.md](docs/landscape.md) — Global policy and regulatory landscape (EU, US, China, ASEAN).
+- [docs/architecture.md](docs/architecture.md) — Technology pillars and sovereign cloud/inference patterns.
+- [docs/ecosystem.md](docs/ecosystem.md) — Key players, hardware vendors, and startups.
+- [docs/challenges.md](docs/challenges.md) — Risks and feasibility questions.
 
----
-
-## Document Structure
-
-This repository provides two tracks for different audiences:
-
-### Executive Track (Decision-Makers, Board, Policymakers)
-
-| Document | Description |
-|----------|-------------|
-| [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) | Strategic overview — why sovereign AI matters, national approaches compared, investment landscape, key decisions, and risk framing |
-
-### Technical Track (Engineers, Architects, Practitioners)
-
-| Document | Description |
-|----------|-------------|
-| [docs/landscape.md](docs/landscape.md) | Global policy and regulatory landscape — EU, US, China, ASEAN, Middle East, India, Japan, South Korea |
-| [docs/drivers.md](docs/drivers.md) | Motivations and geopolitical forces driving sovereign AI adoption |
-| [docs/architecture.md](docs/architecture.md) | Technology pillars, reference architectures, sovereign compute/cloud/inference patterns |
-| [docs/controls-governance.md](docs/controls-governance.md) | Governance frameworks, risk management, data classification, model governance, supply chain security |
-| [docs/ecosystem.md](docs/ecosystem.md) | Key players — government programs, hyperscalers, open-source models, hardware vendors, startups |
-| [docs/challenges.md](docs/challenges.md) | Risks, structural constraints, and the feasibility question |
-| [docs/trends-outlook.md](docs/trends-outlook.md) | Trends and future outlook 2024–2030 — SLMs, edge AI, chip diversification, market projections |
-| [docs/case-studies.md](docs/case-studies.md) | Notable implementations — India BHASHINI, Gaia-X, DeepSeek+Huawei, South Korea, UAE, EuroHPC |
-
-### How to Read
-
-- **If you have 15 minutes:** Read `EXECUTIVE_SUMMARY.md`
-- **If you're evaluating sovereign AI strategy:** Start with `EXECUTIVE_SUMMARY.md`, then `docs/landscape.md` (your region) and `docs/architecture.md`
-- **If you're building sovereign infrastructure:** Focus on `docs/architecture.md`, `docs/ecosystem.md`, and `docs/controls-governance.md`
-- **If you're researching the space:** Read everything — start with `docs/drivers.md` for context
+### ⚖️ The Critical Track (Gemini-AI Lens)
+- [EXECUTIVE_SUMMARY_CRITICAL.md](EXECUTIVE_SUMMARY_CRITICAL.md) — The "Sovereignty Tax" and the $100B ROI problem.
+- [doc-critical/the-epistemic-trap.md](doc-critical/the-epistemic-trap.md) — Advanced systemic risks: Epistemology, Thermodynamics, and Game Theory.
+- [doc-critical/hidden-dimensions.md](doc-critical/hidden-dimensions.md) — The unconsidered risks: Labor gaps, fiber optics, and recursive dependency.
+- [doc-critical/economic-fallacy.md](doc-critical/economic-fallacy.md) — Analyzing the high cost of building domestic "AI Factories."
+- [doc-critical/technological-dependency.md](doc-critical/technological-dependency.md) — Why "full-stack" is a mathematical improbable for 95% of nations.
+- [doc-critical/security-risks.md](doc-critical/security-risks.md) — The vulnerabilities of centralized domestic infrastructure.
+- [doc-critical/innovation-stagnation.md](doc-critical/innovation-stagnation.md) — How protectionism might kill local AI startups.
 
 ---
 
-## Key Insight
+## 💡 Key Debate
 
-> Full-stack AI sovereignty is structurally infeasible for almost any single country because AI is a transnational stack with concentrated choke points across minerals, energy, compute hardware, networks, data, models, applications, talent, and governance. Sovereignty should mean **"the ability to act strategically with agency and choice in an interdependent world"** — not total isolation.
+> **The Vision:** "Full-stack AI sovereignty is the only way to protect our citizens, our data, and our economic future from foreign dependency."
 >
-> — Brookings Institution / Tony Blair Institute
+> **The Critique:** "Sovereign AI is a high-cost insurance policy. For most, the goal should not be isolation but **Strategic Resilience**: the ability to act with agency in an interdependent world."
 
 ---
 
-## Sources
+## 📦 How to Use This Repo
 
-Research draws from 50+ sources including McKinsey, Brookings, Carnegie Endowment, World Economic Forum, NVIDIA, European Commission, NIST, IEA, and national AI strategy documents. Individual citations are provided inline throughout each document.
+- **If you're building a national strategy:** Read both tracks to understand the "worst-case" ROI before committing billions.
+- **If you're an architect:** Start with `docs/architecture.md` and `doc-critical/security-risks.md`.
+- **If you're an investor:** Compare `EXECUTIVE_SUMMARY.md` with `doc-critical/economic-fallacy.md`.
 
 ---
 
-## License
+## 📈 Latest Updates
 
-This is a research knowledge base. All content is original synthesis; source materials are cited inline.
+- **v1.1.0 (2026-03-08)**: Pivoted to **Dual-Track Architecture**. Added the **Critical Lens (Track 2)**, featuring advanced systemic analysis (Epistemology, Thermodynamics, and Game Theory). See the [CHANGELOG.md](CHANGELOG.md) for full details.
+
+---
+
+## 📜 License & Acknowledgments
+...
+This is a research knowledge base. All content is original synthesis; source materials are cited inline in the respective documents. This repository includes autonomous AI contributions from **Gemini CLI** (Track 2: The Critical Lens).
