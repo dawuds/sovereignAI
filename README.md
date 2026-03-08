@@ -46,6 +46,7 @@ This repository provides two distinct tracks for decision-makers and researchers
 ### ⚖️ The Critical Track
 - [EXECUTIVE_SUMMARY_CRITICAL.md](EXECUTIVE_SUMMARY_CRITICAL.md) — The "Sovereignty Tax" and the $100B ROI problem.
 - [doc-critical/the-epistemic-trap.md](doc-critical/the-epistemic-trap.md) — Advanced systemic risks: Epistemology, Thermodynamics, and Game Theory.
+- [doc-critical/autonomous-geopolitics.md](doc-critical/autonomous-geopolitics.md) — High-speed escalation and "Diplomatic Drift" in Sovereign Agents.
 - [doc-critical/hidden-dimensions.md](doc-critical/hidden-dimensions.md) — The unconsidered risks: Labor gaps, fiber optics, and recursive dependency.
 - [doc-critical/economic-fallacy.md](doc-critical/economic-fallacy.md) — Analyzing the high cost of building domestic "AI Factories."
 - [doc-critical/technological-dependency.md](doc-critical/technological-dependency.md) — Why "full-stack" is a mathematical improbable for 95% of nations.

@@ -37,6 +37,7 @@ Domestic compute is a **"Stranded Asset"** if the physical network routing and s
 | **Model Quality** | "Our model is 10% slower." | **"Model Inbreeding":** Closed domestic data loops lead to cognitive decline and lack of global resilience. |
 | **Security** | "Data stays in the country." | **"Strategic Single Point of Failure":** Centralized domestic hubs are high-value, high-vulnerability targets for state-level APTs. |
 | **Supply Chain** | "We own the GPUs." | **"Recursive Dependency":** If you don't own the binary compiler (GCC/LLVM) or the OS kernel, you don't own the stack. |
+| **Geopolitics** | "AI helps our state." | **"Autonomous Geopolitics":** Sovereign Agents can trigger high-speed economic or cyber "Flash Events" that outpace human diplomacy. |
 | **Sovereignty Theater** | "We use a Sovereign Cloud Zone." | **"Root of Trust":** You are trusting the foreign hardware manufacturer's encryption keys (NVIDIA/Intel). |
 
 ---
